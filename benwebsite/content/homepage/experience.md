@@ -2,12 +2,12 @@
 title: Experience
 draft: false
 experiences:
-  - title: Example Role 1
+  - title: Strategic Cloud Engineer, Security and Trust
     organization:
-      name: Example Organization 1
+      name: Google Cloud
       url: https://example.org
-    dates: "2019 - Present"
-    location: Country
+    dates: "2021 - Present"
+    location: Seattle, WA
     writeup: >
       Donec scelerisque egestas augue at tempor. Fusce faucibus magna in.
 
@@ -17,12 +17,12 @@ experiences:
 
       - Nam tincidunt diam quis lorem rutrum ullamcorper.
 
-  - title: Example Role 2
+  - title: Cloud Consultant
     organization:
-      name: Example Organization 2
+      name: EY LLP
       url: https://example.org
-    dates: "2017 - 2019"
-    location: Country
+    dates: "2019 - 2021"
+    location: Seattle, WA
     writeup: >
       **Aliquam** at **rutrum** ante. In sed quam faucibus.
 
@@ -37,7 +37,7 @@ widget:
     # Options: left and right. Leave blank to hide.
     position: left
     # Options: sm, md, lg and xl. Default is md.
-    scale:
+    scale: sm
 
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
