@@ -1,0 +1,3 @@
+[submodule "benwebsite/themes/eureka"]
+	path = benwebsite/themes/eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
