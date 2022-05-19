@@ -2,21 +2,21 @@
 title: Ben Yan
 draft: false
 role: Strategic Cloud Engineer
-avatar: poggersU.jpg
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
+avatar: profile.jpg
+bio: Hello I'm Ben! I currently work at Google Cloud, helping large enterprise customers secure their GCP environments. I've worked in gaming production, network operations, professional services, and spent most of college studying and building ✈️ 🚀
 organization:
   name: Google Cloud
-  url: https://example.com/
+  #url: https://example.com/
 social:
-  - icon: envelope
-    iconPack: fas
-    url: mailto:example@example.com
   - icon: twitter
     iconPack: fab
-    url: https://example.com/
+    url: https://twitter.com/beanyarn
   - icon: github
     iconPack: fab
-    url: https://example.com/
+    url: https://github.com/y4nben
+  - icon: linkedin
+    iconPack: fab
+    url: https://www.linkedin.com/in/yanben/
 
 weight: 1
 widget:
