@@ -20,8 +20,7 @@ jobs:
           hugo-version: 'latest'
       - name: Build
         run: hugo --minify
-        with:
-          entrypoint: ./benwebsite
+        working-directory: ./benwebsite
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           entrypoint: ./benwebsite
