@@ -41,9 +41,9 @@ experiences:
     dates: "2015 - 2021"
     location: Los Angeles, CA
     writeup: >
-      Advised F500 companies on migrations and operating models in the cloud
+      Broadcast, networking, and development generalist for digital-native mixed-media production company
 
-      - Multi-VLAN L3 switched networks for livestream (Dante audio and video-over IP) and tournament production
+      - L3 switched networks for livestream (Dante audio and video-over IP) and tournament production
       
       - NodeJS chatbots for livestream graphics and audience interaction
 

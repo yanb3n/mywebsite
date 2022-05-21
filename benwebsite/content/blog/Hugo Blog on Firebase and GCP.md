@@ -1,18 +1,25 @@
 ---
-title: Featured Image
-description: Post with featured image.
+title: Building a Hugo Blog on Firebase and GCP
+description: Sellout Yan using his company's products :)
 toc: true
 authors:
-  - Example Author
+  - Ben
+avatar: images/profile.jpg
 tags:
-  - image
+  - CI/CD
+  - GCP
+  - Firebase
+  - Hugo
 categories:
-  - themes
+  - CI/CD
+  - GCP
+  - Firebase
+  - Hugo
 series:
-  - Themes Guide
-date: '2020-05-26'
-lastmod: '2020-05-26'
-featuredImage: images/hero-right.jpg
+  - 
+date: '2022-05-20'
+lastmod: '2022-05-20'
+featuredImage: images/logo.png
 draft: false
 ---
 

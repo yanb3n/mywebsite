@@ -6,17 +6,20 @@ avatar: profile.jpg
 bio: Hello I'm Ben! I currently work at Google Cloud, helping large enterprise customers secure their GCP environments. I've worked in gaming production, network operations, professional services, and spent most of college studying and building ✈️ 🚀
 organization:
   name: Google Cloud
-  #url: https://example.com/
+  url: https://cloud.google.com/
 social:
   - icon: twitter
     iconPack: fab
     url: https://twitter.com/beanyarn
   - icon: github
     iconPack: fab
-    url: https://github.com/y4nben
+    url: https://github.com/yanb3n
   - icon: linkedin
     iconPack: fab
     url: https://www.linkedin.com/in/yanben/
+  - icon: youtube
+    iconPack: fab
+    url: https://www.youtube.com/channel/UCb7YsN-idwmZuGG3-Vk3x5g
 
 weight: 1
 widget:
