@@ -34,7 +34,7 @@ experiences:
 
       - Cloud Operating model and tool decisions for industrial digital transformation
 
-  - title: Broadcast Engineer
+  - title: Broadcast Technologies Engineer
     organization:
       name: Bento Productions LLC
       url: https://bento.gg
