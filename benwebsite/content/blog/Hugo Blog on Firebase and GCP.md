@@ -19,7 +19,7 @@ series:
   - 
 date: '2022-05-20'
 lastmod: '2022-05-20'
-featuredImage: images/logo.png
+featuredImage: images/logowhugo.png
 draft: false
 ---
 
@@ -30,13 +30,13 @@ Hello! I finally sat down and made myself get this blog off the ground, which me
 
 Starting out with a blank sheet, I knew that I wanted to do (and not do) a few things:
 
-1. Host the thing on GCP
-2. Not touch frontend with a 10 foot pole
-3. CI/CD the thing
+1. Host the thing on GCP (_eat your own dogfood_)
+2. Not touch frontend with a 10 foot pole (_no js pls_)
+3. CI/CD the thing (_best practices!!!_)
 
-This isn't really anything groundbreaking or crazy, but looking back at the end of getting this doodad working there's a bit of nuance involved with each of the steps. Let's take a look. 
+None of this is anything groundbreaking or crazy, but looking back at the end of getting this doodad working there's a bit of nuance involved with each of the steps. Let's take a look. 
 
-# Hosting a static site on GCP
+# Hosting a Static Site on GCP
 
 
 
