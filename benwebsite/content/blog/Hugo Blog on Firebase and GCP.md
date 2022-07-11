@@ -56,3 +56,4 @@ Regardless of the technical reason for requiring HTTPS Cloud Load Balancing, it'
 Of course, there's caveats to this too, you could [map App Engine with a custom domain](https://cloud.google.com/appengine/docs/standard/python/mapping-custom-domains) and use [Firebase custom domains with Cloud Run](https://cloud.google.com/run/docs/mapping-custom-domains) but neither are immediately obvious and require a bit more tinkering.
 
 ### Firebase 
+So instead we're using Firebase! It's not as 
