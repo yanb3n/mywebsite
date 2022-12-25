@@ -1,4 +1,4 @@
-baseURL: hi@me-ben.com 
+baseURL: me-ben.com
 title: Ben Yan
 
 # Uncomment when not installing with Hugo Modules
@@ -40,5 +40,5 @@ taxonomies:
   series: series
   author: authors
 
-    #build:
-    #  useResourceCacheWhen: fallback 
+build:
+  useResourceCacheWhen: always
