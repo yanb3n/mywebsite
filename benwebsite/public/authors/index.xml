@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authors on Ben Yan</title><link>/authors/</link><description>Recent content in Authors on Ben Yan</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&amp;copy; 2022 Ben Yan</copyright><lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml"/><item><title>Ben Yan</title><link>/authors/ben/</link><pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate><guid>/authors/ben/</guid><description/></item><item><title>Example Author</title><link>/authors/example-author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/authors/example-author/</guid><description>Self Introduction Cras ex dui, tristique a libero eget, consectetur semper ligula. Nunc augue arcu, malesuada a nisi et, molestie finibus metus. Sed lacus odio, ultricies a nisl vitae, sollicitudin tempor ipsum. Vivamus quis feugiat arcu. Sed mi nunc, efficitur quis tellus vitae, posuere mattis metus. Phasellus in mattis dui. Nullam blandit, augue non ullamcorper dapibus, lacus dui molestie massa, in iaculis purus lectus eu lectus. Duis hendrerit lacinia tellus, sit amet feugiat dolor placerat id.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Ben Yan</title>
+    <link>hi@me-ben.com/authors/</link>
+    <description>Recent content in Authors on Ben Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 Ben Yan
+</copyright>
+    <lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="hi@me-ben.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ben Yan</title>
+      <link>hi@me-ben.com/authors/ben-yan/</link>
+      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>hi@me-ben.com/authors/ben-yan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ben Yan</title>
+      <link>hi@me-ben.com/authors/ben/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>hi@me-ben.com/authors/ben/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Author</title>
+      <link>hi@me-ben.com/authors/example-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>hi@me-ben.com/authors/example-author/</guid>
+      <description>Self Introduction Cras ex dui, tristique a libero eget, consectetur semper ligula. Nunc augue arcu, malesuada a nisi et, molestie finibus metus. Sed lacus odio, ultricies a nisl vitae, sollicitudin tempor ipsum. Vivamus quis feugiat arcu. Sed mi nunc, efficitur quis tellus vitae, posuere mattis metus. Phasellus in mattis dui. Nullam blandit, augue non ullamcorper dapibus, lacus dui molestie massa, in iaculis purus lectus eu lectus. Duis hendrerit lacinia tellus, sit amet feugiat dolor placerat id.</description>
+    </item>
+    
+  </channel>
+</rss>
