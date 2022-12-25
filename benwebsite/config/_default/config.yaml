@@ -1,8 +1,8 @@
-baseURL: hi@me-ben.com 
+baseURL: /
 title: Ben Yan
 
 # Uncomment when not installing with Hugo Modules
-# theme: eureka
+#theme: eureka
 # Comment when not installing with Hugo Modules
 theme: wangchucheng.com/hugo-eureka
 # If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
@@ -40,5 +40,5 @@ taxonomies:
   series: series
   author: authors
 
-    #build:
-    #  useResourceCacheWhen: fallback 
+build:
+  useResourceCacheWhen: always
