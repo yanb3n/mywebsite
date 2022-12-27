@@ -9,10 +9,10 @@ dateFormat:
 titleSeparator:
 
 # Options: auto, light and dark. Default is auto.
-colorScheme:
+colorScheme: dark
 
 # Colors and fonts. Default style is data/styles/default.yaml/
-style:
+style: sellout.yaml
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 siteType: Person
