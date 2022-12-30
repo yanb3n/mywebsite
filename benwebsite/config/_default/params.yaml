@@ -28,6 +28,8 @@ highlight:
     # See https://github.com/highlightjs/cdn-release/tree/main/build/languages for available languages.
     languages:
       - dart
+      - java
+      - python
     # See https://github.com/highlightjs/cdn-release/tree/main/build/styles for available styles.
     style: base16/solarized-light
 
